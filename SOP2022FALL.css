@@ -1,0 +1,49 @@
+* {
+    font-family: Helvetica;
+}
+
+.football {
+    background: #13294B;
+    margin: 0px;
+    padding-bottom: 20px;
+}
+
+h2 {
+    color: #E84A27;
+    margin-top: 0px;
+    text-transform: uppercase;
+    font-size: 50px;
+    text-align: center;
+}
+
+ul {
+    color: #E84A27;
+    list-style: none;
+    text-align: center;
+}
+
+p {
+    color: white;
+    margin-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.volleyball {
+    background-color: #13294B;
+    margin: 0px;
+}
+
+.bottom-border-box {
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(#13294B, transparent);
+    margin: 0px;
+}
+
+.top-border-box {
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(transparent, #13294B);
+    margin: 0px;
+}
